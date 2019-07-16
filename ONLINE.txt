@@ -1,4 +1,4 @@
-|
+[start]
 Killed his father, preparing to die!
 JUNDing 'em out!
 Chasing the man in black!
@@ -14,4 +14,4 @@ Wrangling the stream!
 Summoning Old Gods!
 Rearranging Materia!
 Grinding for XP!
-||
+[end]
