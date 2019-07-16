@@ -1,16 +1,17 @@
-[start]Killed his father, preparing to die!
-JUNDing 'em out!
-Chasing the man in black!
-Gathering secret ingredients!
-Tapping for mana!
-Getting involved in a land war in Asia!
-Raising the wind flags!
-Finding fantastic beasts!
-Preheating the oven!
-Rolling for initiative!
-Reticulating splines!
-Wrangling the stream!
-Summoning Old Gods!
-Rearranging Materia!
+[start]
+Killed his father, preparing to die!,
+JUNDing 'em out!,
+Chasing the man in black!,
+Gathering secret ingredients!,
+Tapping for mana!,
+Getting involved in a land war in Asia!,
+Raising the wind flags!,
+Finding fantastic beasts!,
+Preheating the oven!,
+Rolling for initiative!,
+Reticulating splines!,
+Wrangling the stream!,
+Summoning Old Gods!,
+Rearranging Materia!,
 Grinding for XP!
 [end]
